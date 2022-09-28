@@ -4,3 +4,4 @@
 
 Week 1
 
+Trying to connect
